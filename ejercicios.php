@@ -27,17 +27,7 @@ echo $mensaje .= $longitud * $ancho , '<br>';
 $numero = 15;
 
 
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
-echo $numero++, '<br>';
+echo $numero+10, '<br>';
 
 
 
